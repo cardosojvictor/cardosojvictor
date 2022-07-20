@@ -2,7 +2,7 @@
 
 I'm also interested in Psychology and Mindfulness.
 
-[![CardosoJvictor's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardosojvictor)](https://github.com/cardosojvictor/github-readme-stats)
+[![CardosoJvictor's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardosojvictor&count_private=true&show_icons=true)](https://github.com/cardosojvictor/github-readme-stats)
 
 <!--
 **cardosojvictor/cardosojvictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

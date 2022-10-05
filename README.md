@@ -1,4 +1,4 @@
-##### Hi there, I have a degree in Computer Science from UNESP and I'm currently a back-end Software Engineer, working mainly with Python / Django, Java, C and other cool stuff that I can learn in the journey. I'm also interested in Psychology and Mindfulness.
+##### Hi there, I have a degree in Computer Science at UNESP and I'm currently a back-end Software Engineer, working mainly with Python / Django, Java, C and other cool stuff that I can learn in the journey. I'm also interested in Psychology and Mindfulness.
 
 
 <div align="center">
